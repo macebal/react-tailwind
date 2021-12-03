@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+It also includes the TailWind CSS framework ready to use.
 
 ## Available Scripts
 
